@@ -1,1 +1,2 @@
 # 24832944_A2
+This repository contains the implementation of a Theme Park Ride & Visitor Management System (PRVMS), developed as Assessment 2 (A2) for PROG2004 Object-Oriented Programming at Southern Cross University. The system is built in Java 17 and demonstrates proficiency in object-oriented principles, advanced collection frameworks, and I/O operations (aligned with Unit Learning Outcomes ULO2, ULO3, ULO4).
